@@ -18,8 +18,5 @@ public class Main {
         System.out.println(it.next());
 
         System.out.println(candidates.first() + " and " + candidates.last());
-        //String s = candidates.higher( );
-
-        //SortedSet<Person> text = candidates.
     }
 }
